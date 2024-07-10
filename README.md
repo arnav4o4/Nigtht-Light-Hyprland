@@ -15,6 +15,7 @@ Alternative to these there are some software like Redshift that can be used..
 ## But in Hyprland, apps like Redshift doesn't support.
 
 <a href="https://ibb.co/18sdt3S"><img src="https://i.ibb.co/Gcst4Xh/image.png" alt="image" border="0"></a>
+
 Source: [Redshift -Arch](https://wiki.archlinux.org/title/redshift)
 
 So there is a **configuration tool** called [Hyprshade](https://github.com/loqusion/hyprshade)
