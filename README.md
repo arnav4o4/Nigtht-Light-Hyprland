@@ -1,3 +1,5 @@
+## Night Light Feature in Hyprland
+
 When using **Gnome** or **KDE** , we use **Night light** option present in settings:
 
 **KDE**
