@@ -21,6 +21,7 @@ Source: [Redshift -Arch](https://wiki.archlinux.org/title/redshift)
 So there is a **configuration tool** called [Hyprshade](https://github.com/loqusion/hyprshade)
 
 **Screenshots:**
+
 **Vibrance**![Vibrance](https://github.com/loqusion/hyprshade/raw/main/.github/assets/vibrance.png)
 
 **Blue light filter**
